@@ -1,0 +1,28 @@
+_repo: Theory-of-Groups-of-Finite-Order_40395
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnside, William
+    alias: Burnside, W. (William)
+    birthdate: 1852
+    deathdate: 1927
+    gutenberg_agent_id: '40602'
+    url: http://www.gutenberg.org/2009/agents/40602
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2012-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Group theory'
+title: Theory of Groups of Finite Order
+url: http://www.gutenberg.org/ebooks/40395
