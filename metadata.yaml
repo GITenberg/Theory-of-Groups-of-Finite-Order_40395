@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QA'
 - !lcsh 'Group theory'
+- GITenberg
 title: Theory of Groups of Finite Order
 url: http://www.gutenberg.org/ebooks/40395
